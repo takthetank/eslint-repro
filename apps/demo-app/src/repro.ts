@@ -6,7 +6,7 @@ export class Foo {
    }
 
    /** the public property */
-   public aProp = 5;
+   public aProp: number = 5;
 
    /** the constructor */
    public constructor() {
